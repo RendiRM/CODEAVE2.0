@@ -1,0 +1,16 @@
+C:\Users\renda\source\repos\CargoFleet2.0\Login\bin\Debug\Login.exe.config
+C:\Users\renda\source\repos\CargoFleet2.0\Login\bin\Debug\Login.exe
+C:\Users\renda\source\repos\CargoFleet2.0\Login\bin\Debug\Login.pdb
+C:\Users\renda\source\repos\CargoFleet2.0\Login\obj\Debug\CargoFleet.csprojAssemblyReference.cache
+C:\Users\renda\source\repos\CargoFleet2.0\Login\obj\Debug\Login.Login.resources
+C:\Users\renda\source\repos\CargoFleet2.0\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\renda\source\repos\CargoFleet2.0\Login\obj\Debug\CargoFleet.csproj.GenerateResource.cache
+C:\Users\renda\source\repos\CargoFleet2.0\Login\obj\Debug\CargoFleet.csproj.CoreCompileInputs.cache
+C:\Users\renda\source\repos\CargoFleet2.0\Login\obj\Debug\Login.exe
+C:\Users\renda\source\repos\CargoFleet2.0\Login\obj\Debug\Login.pdb
+C:\Users\renda\source\repos\CargoFleet2.0\Login\obj\Debug\Login.Forms.Form_OfficeManager.resources
+C:\Users\renda\source\repos\CargoFleet2.0\Login\obj\Debug\Login.Forms.Form_Services.resources
+C:\Users\renda\source\repos\CargoFleet2.0\Login\obj\Debug\Login.Forms.Form_TimeSchedule.resources
+C:\Users\renda\source\repos\CargoFleet2.0\Login\obj\Debug\Login.Forms.Form_TripUsage.resources
+C:\Users\renda\source\repos\CargoFleet2.0\Login\obj\Debug\Login.Forms.Form_VehicleInfoManager.resources
+C:\Users\renda\source\repos\CargoFleet2.0\Login\obj\Debug\Login.UserControls.UC_AddEmployee.resources

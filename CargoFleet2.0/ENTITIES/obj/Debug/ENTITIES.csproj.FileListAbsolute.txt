@@ -1,0 +1,6 @@
+C:\Users\renda\Desktop\WIL_POE\ENTITIES\bin\Debug\ENTITIES.dll
+C:\Users\renda\Desktop\WIL_POE\ENTITIES\bin\Debug\ENTITIES.pdb
+C:\Users\renda\Desktop\WIL_POE\ENTITIES\obj\Debug\ENTITIES.csprojAssemblyReference.cache
+C:\Users\renda\Desktop\WIL_POE\ENTITIES\obj\Debug\ENTITIES.csproj.CoreCompileInputs.cache
+C:\Users\renda\Desktop\WIL_POE\ENTITIES\obj\Debug\ENTITIES.dll
+C:\Users\renda\Desktop\WIL_POE\ENTITIES\obj\Debug\ENTITIES.pdb

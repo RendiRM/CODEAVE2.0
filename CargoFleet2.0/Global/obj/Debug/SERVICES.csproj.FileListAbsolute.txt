@@ -1,0 +1,5 @@
+C:\Users\renda\Desktop\WIL_POE\Global\bin\Debug\Global.dll
+C:\Users\renda\Desktop\WIL_POE\Global\bin\Debug\Global.pdb
+C:\Users\renda\Desktop\WIL_POE\Global\obj\Debug\SERVICES.csproj.CoreCompileInputs.cache
+C:\Users\renda\Desktop\WIL_POE\Global\obj\Debug\Global.dll
+C:\Users\renda\Desktop\WIL_POE\Global\obj\Debug\Global.pdb
